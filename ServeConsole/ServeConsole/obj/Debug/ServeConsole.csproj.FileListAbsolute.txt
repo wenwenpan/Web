@@ -1,0 +1,7 @@
+C:\Users\14537\Documents\Visual Studio 2017\Project\ServeConsole\ServeConsole\bin\Debug\ServeConsole.exe.config
+C:\Users\14537\Documents\Visual Studio 2017\Project\ServeConsole\ServeConsole\bin\Debug\ServeConsole.exe
+C:\Users\14537\Documents\Visual Studio 2017\Project\ServeConsole\ServeConsole\bin\Debug\ServeConsole.pdb
+C:\Users\14537\Documents\Visual Studio 2017\Project\ServeConsole\ServeConsole\obj\Debug\ServeConsole.csprojAssemblyReference.cache
+C:\Users\14537\Documents\Visual Studio 2017\Project\ServeConsole\ServeConsole\obj\Debug\ServeConsole.csproj.CoreCompileInputs.cache
+C:\Users\14537\Documents\Visual Studio 2017\Project\ServeConsole\ServeConsole\obj\Debug\ServeConsole.exe
+C:\Users\14537\Documents\Visual Studio 2017\Project\ServeConsole\ServeConsole\obj\Debug\ServeConsole.pdb
