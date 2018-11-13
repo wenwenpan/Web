@@ -4,3 +4,10 @@ C:\Users\14537\Documents\Visual Studio 2017\Project\ClientConsole\ClientConsole\
 C:\Users\14537\Documents\Visual Studio 2017\Project\ClientConsole\ClientConsole\obj\Debug\ClientConsole.csproj.CoreCompileInputs.cache
 C:\Users\14537\Documents\Visual Studio 2017\Project\ClientConsole\ClientConsole\obj\Debug\ClientConsole.exe
 C:\Users\14537\Documents\Visual Studio 2017\Project\ClientConsole\ClientConsole\obj\Debug\ClientConsole.pdb
+F:\C#\program\ClientConsole\ClientConsole\bin\Debug\ClientConsole.exe.config
+F:\C#\program\ClientConsole\ClientConsole\bin\Debug\ClientConsole.exe
+F:\C#\program\ClientConsole\ClientConsole\bin\Debug\ClientConsole.pdb
+F:\C#\program\ClientConsole\ClientConsole\obj\Debug\ClientConsole.csprojAssemblyReference.cache
+F:\C#\program\ClientConsole\ClientConsole\obj\Debug\ClientConsole.csproj.CoreCompileInputs.cache
+F:\C#\program\ClientConsole\ClientConsole\obj\Debug\ClientConsole.exe
+F:\C#\program\ClientConsole\ClientConsole\obj\Debug\ClientConsole.pdb

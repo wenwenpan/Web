@@ -29,10 +29,29 @@ namespace ServeConsole
                     NetworkStream streamToClient = remoteClient.GetStream();//huoqu liu 
                 do { 
                     byte[] buffer = new byte[BufferSize];
-                    int bytesRead = streamToClient.Read(buffer, 0, BufferSize);//duqu shuju 返回数据的length
-                    Console.WriteLine("Reading data,{0}bytes....", bytesRead);
-                    string msg = Encoding.Unicode.GetString(buffer, 0, bytesRead);
-                    Console.WriteLine("Receive:{0}", msg);
+                    int bytesRead;
+                    try
+                    {
+                        lock (streamToClient)
+                        {
+                            bytesRead = streamToClient.Read(buffer, 0, BufferSize);//duqu shuju 返回数据的length
+                        }
+                        if (bytesRead == 0) throw new Exception("读取到0字节");
+                        Console.WriteLine("Reading data,{0}bytes....", bytesRead);
+                        string msg = Encoding.Unicode.GetString(buffer, 0, bytesRead);
+                        Console.WriteLine("Receive:{0}", msg);
+                        msg = msg.ToUpper();
+                        buffer = Encoding.Unicode.GetBytes(msg);
+                        lock (streamToClient)
+                        {
+                            streamToClient.Write(buffer, 0, buffer.Length);
+                        }
+                        Console.WriteLine("Sent:{0}", msg);
+                    }
+                    catch (Exception ex) {
+                        Console.WriteLine(ex.Message);
+                        break;
+                    }
                 } while (true);
             }
             catch (Exception ex){
@@ -48,3 +67,15 @@ namespace ServeConsole
         }
     }
 }
+
+
+// 大文件 获取字符串
+//byte[] buffer = new byte[BufferSize];
+//int bytesRead; // 读取的字节数
+//MemoryStream msStream = new MemoryStream();
+//do {
+//bytesRead = streamToClient.Read(buffer, 0, BufferSize);
+//msStream.Write(buffer, 0, bytesRead);
+//} while (bytesRead > 0);
+//buffer = msStream.GetBuffer();
+//string msg = Encoding.Unicode.GetString(buffer);
