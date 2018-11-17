@@ -1,0 +1,7 @@
+C:\Users\14537\Documents\Visual Studio 2017\Project\SSLConsoleExp\SSLConsoleExp\obj\Debug\SSLConsoleExp.csprojAssemblyReference.cache
+C:\Users\14537\Documents\Visual Studio 2017\Project\SSLConsoleExp\SSLConsoleExp\obj\Debug\SSLConsoleExp.csproj.CoreCompileInputs.cache
+C:\Users\14537\Documents\Visual Studio 2017\Project\SSLConsoleExp\SSLConsoleExp\bin\Debug\SSLConsoleExp.exe.config
+C:\Users\14537\Documents\Visual Studio 2017\Project\SSLConsoleExp\SSLConsoleExp\bin\Debug\SSLConsoleExp.exe
+C:\Users\14537\Documents\Visual Studio 2017\Project\SSLConsoleExp\SSLConsoleExp\bin\Debug\SSLConsoleExp.pdb
+C:\Users\14537\Documents\Visual Studio 2017\Project\SSLConsoleExp\SSLConsoleExp\obj\Debug\SSLConsoleExp.exe
+C:\Users\14537\Documents\Visual Studio 2017\Project\SSLConsoleExp\SSLConsoleExp\obj\Debug\SSLConsoleExp.pdb

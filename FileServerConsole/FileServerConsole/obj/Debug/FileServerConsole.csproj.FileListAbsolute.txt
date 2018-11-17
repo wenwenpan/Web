@@ -1,0 +1,7 @@
+F:\C#\program\FileServerConsole\FileServerConsole\obj\Debug\FileServerConsole.csprojAssemblyReference.cache
+F:\C#\program\FileServerConsole\FileServerConsole\obj\Debug\FileServerConsole.csproj.CoreCompileInputs.cache
+F:\C#\program\FileServerConsole\FileServerConsole\bin\Debug\FileServerConsole.exe.config
+F:\C#\program\FileServerConsole\FileServerConsole\bin\Debug\FileServerConsole.exe
+F:\C#\program\FileServerConsole\FileServerConsole\bin\Debug\FileServerConsole.pdb
+F:\C#\program\FileServerConsole\FileServerConsole\obj\Debug\FileServerConsole.exe
+F:\C#\program\FileServerConsole\FileServerConsole\obj\Debug\FileServerConsole.pdb

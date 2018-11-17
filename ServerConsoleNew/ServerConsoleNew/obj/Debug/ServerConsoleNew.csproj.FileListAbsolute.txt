@@ -1,0 +1,7 @@
+F:\C#\program\ServerConsoleNew\ServerConsoleNew\bin\Debug\ServerConsoleNew.exe.config
+F:\C#\program\ServerConsoleNew\ServerConsoleNew\bin\Debug\ServerConsoleNew.exe
+F:\C#\program\ServerConsoleNew\ServerConsoleNew\bin\Debug\ServerConsoleNew.pdb
+F:\C#\program\ServerConsoleNew\ServerConsoleNew\obj\Debug\ServerConsoleNew.csprojAssemblyReference.cache
+F:\C#\program\ServerConsoleNew\ServerConsoleNew\obj\Debug\ServerConsoleNew.csproj.CoreCompileInputs.cache
+F:\C#\program\ServerConsoleNew\ServerConsoleNew\obj\Debug\ServerConsoleNew.exe
+F:\C#\program\ServerConsoleNew\ServerConsoleNew\obj\Debug\ServerConsoleNew.pdb

@@ -1,0 +1,7 @@
+C:\Users\14537\Documents\Visual Studio 2017\Project\SSLConsoleClient\SSLConsoleClient\bin\Debug\SSLConsoleClient.exe.config
+C:\Users\14537\Documents\Visual Studio 2017\Project\SSLConsoleClient\SSLConsoleClient\bin\Debug\SSLConsoleClient.exe
+C:\Users\14537\Documents\Visual Studio 2017\Project\SSLConsoleClient\SSLConsoleClient\bin\Debug\SSLConsoleClient.pdb
+C:\Users\14537\Documents\Visual Studio 2017\Project\SSLConsoleClient\SSLConsoleClient\obj\Debug\SSLConsoleClient.csprojAssemblyReference.cache
+C:\Users\14537\Documents\Visual Studio 2017\Project\SSLConsoleClient\SSLConsoleClient\obj\Debug\SSLConsoleClient.csproj.CoreCompileInputs.cache
+C:\Users\14537\Documents\Visual Studio 2017\Project\SSLConsoleClient\SSLConsoleClient\obj\Debug\SSLConsoleClient.exe
+C:\Users\14537\Documents\Visual Studio 2017\Project\SSLConsoleClient\SSLConsoleClient\obj\Debug\SSLConsoleClient.pdb
